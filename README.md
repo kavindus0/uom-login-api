@@ -1,4 +1,4 @@
-# uom-login-api
+# UOM-LOGIN-API
 UOM Assestment ServerSide Web Development
 # Express API with SQLite
 
